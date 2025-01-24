@@ -16,7 +16,7 @@ const MainPage = () => {
       <div className="mt-8 w-full max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="bg-white text-black p-6 rounded-xl shadow-xl transform hover:rotate-3 hover:scale-105 transition-all">
           <h2 className="text-3xl font-bold mb-4">💖 Mokshith</h2>
-          <p> - Bakes Cupcakes </p>
+          <p> - Bakes Cupcakess </p>
           <p> - Makes Scrap Book</p>
           <p> - Will be your drive</p>
           <p> - daily flowers </p>
