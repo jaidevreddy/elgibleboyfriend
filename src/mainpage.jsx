@@ -31,7 +31,7 @@ const MainPage = () => {
           <p> - Will be your driver</p>
           <p> - Loves you un-conditionally</p>
           <p> - Will be your pooike</p>
-          <p>- y</p>
+          <p>- you can ride two things</p>
         </div>
       </div>
       <h2 className="mt-12 text-5xl font-extrabold">✨ Perks of Dating Them ✨</h2>
